@@ -1,4 +1,4 @@
-# databricks-sales-project
+# Databricks-sales-project
 This project demonstrates:
 - Databricks
 - PySpark
